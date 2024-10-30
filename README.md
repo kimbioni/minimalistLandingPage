@@ -21,6 +21,8 @@ Este site é uma landing page moderna e elegante, projetada para estúdios de de
 - **JavaScript** para interações leves
 - **SASS/SCSS** para modularidade no CSS
 
+## Landing Page versão Desktop
 ![Landing Page versão desktop](assets/landing_page_desktop.png)
 
+## Landing Page versão Mobile
 ![Landing Page versão mobile](assets/landing_page_mobile.png)
