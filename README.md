@@ -17,9 +17,8 @@ Este site é uma landing page moderna e elegante, projetada para estúdios de de
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **HTML5** e **CSS3**
+- **HTML5** e **CSS**
 - **JavaScript** para interações leves
-- **SASS/SCSS** para modularidade no CSS
 
 ## Landing Page versão Desktop
 ![Landing Page versão desktop](assets/landing_page_desktop.png)
